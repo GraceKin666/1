@@ -1,7 +1,7 @@
 # This is a list of additional allowed words for flake8-spellcheck
-111111111111
+aaaaaaaaaaaaa
 222222222222
-333333333333
+bbbbbbbbbbb
 444444444444
 2x
 4
@@ -10,20 +10,14 @@
 APK
 ARG1
 ARG2
-ASKPASS
-Apk
-Autodetect
-Autogenerate
+
 BLOCKSIZE
 CHOCO
 COMPAT
 CTID
 CTRL
 Choco
-Chocolately
-Cim
-ComputerSystem
-Cpus
+sdfsdfsdfsdfsdfdsfsdfds
 Crontab
 Cygwin
 DOCOPT
