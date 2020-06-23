@@ -1,8 +1,8 @@
 # This is a list of additional allowed words for flake8-spellcheck
 111111111111
-systeminfo
+222222222222
 'testpass'
-'testuser'
+444444444444
 2x
 4
 64kb
